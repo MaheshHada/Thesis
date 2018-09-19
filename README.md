@@ -1,6 +1,6 @@
 # Labelling of the apk files as malware or benign
 
-<b>How to use:</b>
+<b>How to use and Input:</b>
 
 git clone https://github.com/MaheshHada/Thesis.git <br>
 cd Thesis <br>
