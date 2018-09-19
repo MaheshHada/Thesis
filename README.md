@@ -2,7 +2,7 @@
 
 <b>How to use:</b>
 
-git clone <br>
+git clone https://github.com/MaheshHada/Thesis.git <br>
 cd Thesis <br>
 mkdir input <br> <br>
 
