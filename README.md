@@ -8,9 +8,9 @@ mkdir input <br> <br>
 
 Paste the directory e.g. 'Malware Dataset' which contains apk files in the 'input' directory created above. <br><br>
 
-In python(2) shell:<br>
+In python(2) shell:<br> <br>
 import malware_data_extract_script as ms<br>
-ms.extract('Malware Dataset') <br>
+ms.extract('Malware Dataset') <br> <br>
 Note: 'Malware Dataset' is the directory which contains the apk files, It's name has to be passed in the extract function.<br>
 
 <b>Output:</b> <br>
