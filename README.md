@@ -10,7 +10,8 @@ Paste the directory e.g. 'Malware Dataset' which contains apk files in the 'inpu
 
 In python(2) shell:<br>
 import malware_data_extract_script as ms<br>
-ms.extract('Malware Dataset') //'Malware Dataset' is the directory which contains the apk files, It's name has to be passed.<br>
+ms.extract('Malware Dataset') <br>
+Note: 'Malware Dataset' is the directory which contains the apk files, It's name has to be passed in the extract function.<br>
 
 <b>Output:</b> <br>
 The script generates two files in the output directory:<br>
