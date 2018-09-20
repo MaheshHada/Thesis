@@ -15,5 +15,5 @@ Note: 'Malware Dataset' is the directory which contains the apk files, It's name
 
 <b>Output:</b> <br>
 The script generates two files in the output directory:<br>
-1) malware_list.csv which contains the evaluation of the apk file gainst each antivirus on virustotal.com <br>
-2) malware_score.csv which contains total and positives for each apk file <br>
+1) <b>malware_list.csv</b> which contains the evaluation of each apk file against all antivirus on virustotal.com <br>
+2) <b>malware_score.csv</b> which contains total and positives ran accross all the antivirus for each apk file on virustotal.com<br>
