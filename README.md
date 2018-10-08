@@ -15,7 +15,8 @@ Note: 'Malware Dataset' is the directory which contains the apk files, It's name
 
 <b> For extracting the permissions from the apk file </b> <br>
 import extract_apkdata as ep <br>
-ep.extract('Malware Dataset') <br><br> 
+ep.extract('Malware Dataset') <br> 
+Note: This uses apktool which need to be installed and setup first from here https://ibotpeaches.github.io/Apktool/  <br> <br>
 
 <b>Output:</b> <br>
 The script generates two files in the output directory:<br>
